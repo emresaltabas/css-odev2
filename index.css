@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.logo{
+    margin: 20px 300px 0px 500px;
+    background-color:royalblue;
+}
+.div1{
+    width: 1000px;
+    height: 100px;
+    margin: 0px 500px 5px 200px;
+    background-color:#EEEEEE;
+    text-align: center;
+}
+
+
+.div2{
+    width: 1000px;
+    height: 180px;
+    margin: 0px 500px 0px 200px;
+    
+}
+.last{
+    width: 36%;
+    height: 60%;
+    float: left;
+    padding: 1%;
+    margin-right: 0.5%;
+    background-color: #70CCC2;
+    text-align: center;
+}
+
+.middle{
+    width: 20%;
+    height: 60%;
+    float: left;
+    padding: 1%;
+    margin-right: 0.5%;
+    background-color: #70CCC2;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+.footer{
+    text-align: center;
+   
+}
